@@ -1,0 +1,17 @@
+Package: MyPackage
+Type: Package
+Title: What This Package Does
+Version: 1.0
+Date: 2021-02-18
+Author: Your Name
+Maintainer: Your Name
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+Depends: R (>= 2.10)
+License: GPL (>= 2)
+Imports:
+    dplyr,
+    ggplot2
+Suggests: 
+   testthat
+LazyData: true
